@@ -16,6 +16,7 @@ Solving questions
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pranavbhardwaj9122/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/pranavbhardwaj9122/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/pranavbhardwaj9122/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pranavbhardwaj9122/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/pranavbhardwaj9122/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/pranavbhardwaj9122/LeetCode/tree/master/0908-middle-of-the-linked-list) |
@@ -24,11 +25,13 @@ Solving questions
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pranavbhardwaj9122/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/pranavbhardwaj9122/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/pranavbhardwaj9122/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pranavbhardwaj9122/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/pranavbhardwaj9122/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Hash Table
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/pranavbhardwaj9122/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/pranavbhardwaj9122/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pranavbhardwaj9122/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
