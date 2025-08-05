@@ -16,6 +16,7 @@ Solving questions
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pranavbhardwaj9122/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/pranavbhardwaj9122/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/pranavbhardwaj9122/LeetCode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/pranavbhardwaj9122/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/pranavbhardwaj9122/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -47,4 +48,8 @@ Solving questions
 |  |
 | ------- |
 | [2411-spiral-matrix-iv](https://github.com/pranavbhardwaj9122/LeetCode/tree/master/2411-spiral-matrix-iv) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/pranavbhardwaj9122/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
