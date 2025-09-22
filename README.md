@@ -7,6 +7,7 @@ Solving questions
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pranavbhardwaj9122/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0239-sliding-window-maximum](https://github.com/pranavbhardwaj9122/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/pranavbhardwaj9122/LeetCode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [2411-spiral-matrix-iv](https://github.com/pranavbhardwaj9122/LeetCode/tree/master/2411-spiral-matrix-iv) |
 ## Binary Search
@@ -73,6 +74,7 @@ Solving questions
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/pranavbhardwaj9122/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/pranavbhardwaj9122/LeetCode/tree/master/0239-sliding-window-maximum) |
 ## Merge Sort
 |  |
 | ------- |
@@ -87,4 +89,16 @@ Solving questions
 |  |
 | ------- |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/pranavbhardwaj9122/LeetCode/tree/master/1305-number-of-visible-people-in-a-queue) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/pranavbhardwaj9122/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/pranavbhardwaj9122/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/pranavbhardwaj9122/LeetCode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
