@@ -7,6 +7,7 @@ Solving questions
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pranavbhardwaj9122/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/pranavbhardwaj9122/LeetCode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [2411-spiral-matrix-iv](https://github.com/pranavbhardwaj9122/LeetCode/tree/master/2411-spiral-matrix-iv) |
 ## Binary Search
 |  |
@@ -81,4 +82,9 @@ Solving questions
 | ------- |
 | [0143-reorder-list](https://github.com/pranavbhardwaj9122/LeetCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/pranavbhardwaj9122/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/pranavbhardwaj9122/LeetCode/tree/master/1305-number-of-visible-people-in-a-queue) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/pranavbhardwaj9122/LeetCode/tree/master/1305-number-of-visible-people-in-a-queue) |
 <!---LeetCode Topics End-->
