@@ -83,6 +83,7 @@ Solving questions
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/pranavbhardwaj9122/LeetCode/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/pranavbhardwaj9122/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/pranavbhardwaj9122/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/pranavbhardwaj9122/LeetCode/tree/master/1305-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
@@ -101,4 +102,8 @@ Solving questions
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/pranavbhardwaj9122/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/pranavbhardwaj9122/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
